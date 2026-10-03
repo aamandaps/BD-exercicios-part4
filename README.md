@@ -1,4 +1,4 @@
-# Modelagem de Banco de Dados - Normalização
+# DER - Normalização
 
 ### 1. Aplicar as Formas Normais cabíveis, nas questões abaixo. Você deve transformar os esquemas abaixo em conjuntos de esquemas que estejam nas Formas Normais.
 
