@@ -22,4 +22,4 @@ da Disciplina, Nome da Disciplina, Nome do Curso, Data da Matrícula).
 5) Paciente (num_paciente, nome_paciente, num_quarto, descrição_quarto, num_cômodos_
 quarto, {cód_médico, nome_ médico, fone_ médico}).
 
-* Considere os termos entre chaves ({}) ou descritos com (n vezes) como multivalorados
+   * Considere os termos entre chaves ({}) ou descritos com (n vezes) como multivalorados
