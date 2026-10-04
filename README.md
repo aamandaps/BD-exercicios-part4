@@ -23,3 +23,7 @@ da Disciplina, Nome da Disciplina, Nome do Curso, Data da Matrícula).
 quarto, {cód_médico, nome_ médico, fone_ médico}).
 
    * Considere os termos entre chaves ({}) ou descritos com (n vezes) como multivalorados
+
+***
+
+### 2) Considere as situações abaixo e aplique até a 5FN, podendo representar a normalização no Modelo de Dados Relacional ou Modelo Entidade Relacionamento.
